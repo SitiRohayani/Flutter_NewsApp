@@ -61,6 +61,3 @@ Untuk memulai proyek ini, ikuti langkah-langkah berikut:
                 </td>
             </tr>
         </table>
-
-# Berkontribusi
-Kontribusi dipersilakan dan didorong! Jika Anda menemukan bug, memiliki saran untuk perbaikan, atau ingin menambahkan fitur, jangan ragu untuk mengirimkan permintaan penarikan atau buka masalah.
