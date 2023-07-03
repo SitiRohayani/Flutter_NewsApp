@@ -62,5 +62,5 @@ Untuk memulai proyek ini, ikuti langkah-langkah berikut:
             </tr>
         </table>
 
-## Fitur Aplikasi
+## Link Aplikasi (.apk)
 https://drive.google.com/drive/folders/1a5oxX-2mPCp4AbJPQ245SADZ6obBclxr?usp=sharing
