@@ -1,6 +1,6 @@
 ## News App Flutter 
 
-Aplikasi Berita Flutter adalah aplikasi berita sederhana yang dibangun dengan Flutter yang menampilkan berita teratas dari newsapi.org. Aplikasi ini menyertakan halaman beranda yang menampilkan berita teratas, dan halaman kategori tempat pengguna dapat memilih dari berbagai kategori berita. Aplikasi ini juga menampilkan desain yang halus dan intuitif dengan gerakan dan pengalaman yang mulus di platform Android dan iOS.
+Aplikasi Berita Flutter adalah aplikasi berita sederhana yang dibangun dengan Flutter yang menampilkan berita teratas dari newsapi.org. Aplikasi ini menyertakan halaman beranda yang menampilkan berita teratas, dan halaman kategori tempat pengguna dapat memilih dari berbagai kategori berita.
 
  ## Fitur Aplikasi
 
