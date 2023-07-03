@@ -31,19 +31,19 @@ Untuk memulai proyek ini, ikuti langkah-langkah berikut:
                     Dark mode (Modus gelap)
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/01.png"   width="200">
+                    <img src="https://github.com/SitiRohayani/Flutter_NewsApp/blob/main/ScreenShots/01.png"   width="200">
                 </td>
                 <td  style="border: 1px solid black ;">
                     Light Mode (Modus Cahaya)
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/02.png"   width="200">
+                    <img src="https://github.com/SitiRohayani/Flutter_NewsApp/blob/main/ScreenShots/02.png"   width="200">
                 </td>
                  <td  style="border: 1px solid black ;">
                     Countries (Negara)
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/03.png"   width="200">
+                    <img src="https://github.com/SitiRohayani/Flutter_NewsApp/blob/main/ScreenShots/03.png"   width="200">
                 </td>
             </tr>
             <tr>
@@ -51,16 +51,17 @@ Untuk memulai proyek ini, ikuti langkah-langkah berikut:
                     Category (Kategori)
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/04.png"   width="200">
+                    <img src="https://github.com/SitiRohayani/Flutter_NewsApp/blob/main/ScreenShots/04.png"   width="200">
                 </td>
                <td  style="border: 1px solid black ;">
                     News Channels (Saluran Berita)
                 </td>
                 <td  style="border: 1px solid black ;">
-                    <img src="https://raw.githubusercontent.com/j-j-gajjar/FLUTTER_NewsApp/master/ScreenShots/05.png"   width="200">
+                    <img src="https://github.com/SitiRohayani/Flutter_NewsApp/blob/main/ScreenShots/05.png"   width="200">
                 </td>
             </tr>
         </table>
+
 
 ## Link Aplikasi (.apk)
 https://drive.google.com/drive/folders/1a5oxX-2mPCp4AbJPQ245SADZ6obBclxr?usp=sharing
