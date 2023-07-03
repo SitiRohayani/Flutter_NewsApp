@@ -28,19 +28,19 @@ Untuk memulai proyek ini, ikuti langkah-langkah berikut:
 <table style="border: 1px solid black;">
             <tr>
                 <td  style="border: 1px solid black ;">
-                    Dark mode (Modus gelap)
+                    Modus gelap
                 </td>
                 <td  style="border: 1px solid black ;">
                     <img src="https://github.com/SitiRohayani/Flutter_NewsApp/blob/main/ScreenShots/01.png"   width="200">
                 </td>
                 <td  style="border: 1px solid black ;">
-                    Light Mode (Modus Cahaya)
+                    Modus Cahaya
                 </td>
                 <td  style="border: 1px solid black ;">
                     <img src="https://github.com/SitiRohayani/Flutter_NewsApp/blob/main/ScreenShots/02.png"   width="200">
                 </td>
                  <td  style="border: 1px solid black ;">
-                    Countries (Negara)
+                    Negara
                 </td>
                 <td  style="border: 1px solid black ;">
                     <img src="https://github.com/SitiRohayani/Flutter_NewsApp/blob/main/ScreenShots/03.png"   width="200">
@@ -48,13 +48,13 @@ Untuk memulai proyek ini, ikuti langkah-langkah berikut:
             </tr>
             <tr>
                 <td  style="border: 1px solid black ;">
-                    Category (Kategori)
+                    Kategori
                 </td>
                 <td  style="border: 1px solid black ;">
                     <img src="https://github.com/SitiRohayani/Flutter_NewsApp/blob/main/ScreenShots/04.png"   width="200">
                 </td>
                <td  style="border: 1px solid black ;">
-                    News Channels (Saluran Berita)
+                    Saluran Berita
                 </td>
                 <td  style="border: 1px solid black ;">
                     <img src="https://github.com/SitiRohayani/Flutter_NewsApp/blob/main/ScreenShots/05.png"   width="200">
